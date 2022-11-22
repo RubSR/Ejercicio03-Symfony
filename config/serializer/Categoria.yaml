@@ -1,0 +1,6 @@
+App\Entity\Cat:
+  attributes:
+    id:
+      groups: ['libro']
+    nombre:
+      groups: ['libro']

@@ -1,0 +1,12 @@
+App\Entity\Libro:
+  attributes:
+    id:
+      groups: ['libro']
+    titulo:
+      groups: ['libro']
+    anyo:
+      groups: ['libro']
+    autor:
+      groups: ['libro']
+    categoria:
+      groups: ['libro']

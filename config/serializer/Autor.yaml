@@ -1,0 +1,8 @@
+App\Entity\Autor:
+  attributes:
+    id:
+      groups: ['libro']
+    nombre:
+      groups: ['libro']
+    apellidos:
+      groups: ['libro']
